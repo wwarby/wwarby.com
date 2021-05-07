@@ -82,7 +82,7 @@
     "karma-coverage-istanbul-reporter": "2.0.5",
     "karma-jasmine": "2.0.1",
     "karma-jasmine-html-reporter": "1.4.2",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "path": "0.12.7",
     "protractor": "5.4.2",
     "sass-lint": "1.13.1",
